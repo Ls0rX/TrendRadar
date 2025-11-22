@@ -8,6 +8,7 @@ DeepSeek
 bytedance
 
 特斯拉
+spaceX
 
 微软
 Microsoft
@@ -53,9 +54,13 @@ ai
 
 核能
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+固态硬盘
+
+CPU
+
+GPU
+显卡
+
+内存
+
+人民日报
